@@ -57,6 +57,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-PiettroAllves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piettro-allves-268b2132a/)](https://www.linkedin.com/in/piettro-allves-268b2132a/)
 [![Gmail Badge](https://img.shields.io/badge/-allvescode@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allvescode@gmail.com)](mailto:allvescode@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/PiettroAllves?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub](https://img.shields.io/github/followers/PiettroAllves?label=follow&style=social)](https://github.com/PiettroAllves)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
