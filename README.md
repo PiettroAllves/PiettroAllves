@@ -55,8 +55,8 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin](https://img.shields.io/badge/-PiettroAllves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piettro-allves-268b2132a/)](https://www.linkedin.com/in/piettro-allves-268b2132a/)
+[![Gmail Badge](https://img.shields.io/badge/-allvescode@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allvescode@gmail.com)](mailto:allvescode@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/PiettroAllves?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
